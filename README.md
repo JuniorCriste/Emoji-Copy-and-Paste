@@ -4,9 +4,8 @@
 ###### _pt-br_
 ### Teclado de Emojis, copia e cola. Usando HTML + CSS + JavaScript. 
 
-<img src="https://github.com/JuniorCriste/Emoji-Copy-and-Paste/blob/master/assets/Printscreens/Print3.png">
-
-<img src="https://github.com/JuniorCriste/Emoji-Copy-and-Paste/blob/master/assets/Printscreens/Print2.png">
-FIREFOX vs CHROMIUM and CHROME
-<img src="https://github.com/JuniorCriste/Emoji-Copy-and-Paste/blob/master/assets/Printscreens/Firefox%20vs%20Chrome%20and%20Chromium.jpeg">
+<a href="https://www.informaticode.com.br/teclado-de-emoji">View demo</a> <br/>
+<img src="https://github.com/JuniorCriste/Emoji-Copy-and-Paste/blob/master/assets/arts/view.png"> <br/>
+FIREFOX vs CHROMIUM and CHROME <br/>
+<img src="https://github.com/JuniorCriste/Emoji-Copy-and-Paste/blob/master/assets/arts/Firefox VS Chrome.png">
 
