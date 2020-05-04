@@ -1,3 +1,10 @@
-Create by Junior Criste in 2020-04-15, Espirito Santo - Brazil.
-my git: https://github.com/JuniorCriste
-My example: https://www.informaticode.com.br/teclado-de-emoji
+Version 1.0
+Create by Junior Criste in 2020-04-15
+
+Version 2.0
+Create by Junior Criste in 2020-05-04
+
+
+
+My GitHub profile: https://github.com/JuniorCriste
+My demo site: https://www.informaticode.com.br/teclado-de-emoji
